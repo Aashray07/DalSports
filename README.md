@@ -1,7 +1,5 @@
 # Group 13 Project
 
-* *Date Created*: 28 Jan 2023
-* *Last Modification Date*: 31 Mar 2023
 * *Frontend URL*: https://incomparable-cassata-28d849.netlify.app/
 * *Backend URL*: https://dalplex-api.onrender.com/api/
 
