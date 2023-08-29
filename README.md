@@ -4,21 +4,6 @@
 * *Last Modification Date*: 31 Mar 2023
 * *Frontend URL*: https://incomparable-cassata-28d849.netlify.app/
 * *Backend URL*: https://dalplex-api.onrender.com/api/
-* *Gitlab URL*: https://git.cs.dal.ca/sumitk/csci-5709-group-13.git
-	Below are branch list for group project:
-	* main
-	* wip_sumit
-	* wip_falgun
-	* wip_venkata
-	* wip_vinayak
-
-## Authors
-
-* [Sumit Kumar](sumit.kumar@dal.ca)
-* [Venkata Vijaya Rama Raju Mandapati](vn520794@dal.ca)
-* [Vinayak Abhinav Rupanagunta](vn958266@dal.ca)
-* [Falgun Jairaj Thakwani](fl700637@dal.ca)
-
 
 ## Getting Started
 
